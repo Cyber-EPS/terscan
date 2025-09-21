@@ -9,3 +9,5 @@ It is a single file and written in Bash.
 It is not encrypted!
 It supports IPv4
 ![](https://github.com/Cyber-EPS/terscan/blob/main/Screenshot_2025-09-21_08_37_55.png)
+![](https://github.com/Cyber-EPS/terscan/blob/main/Screenshot_2025-09-21_08_38_02.png)
+![](https://github.com/Cyber-EPS/terscan/blob/main/Screenshot_2025-09-21_08_39_06.png)
