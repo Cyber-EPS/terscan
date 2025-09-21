@@ -1,4 +1,4 @@
-# terscan
+## TerScan
 Stronger, faster and smarter | better for scan IP
 The best tool for fast and powerful IP scanning
 Powered by nmap and with several other tools and scripts!
